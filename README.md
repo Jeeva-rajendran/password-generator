@@ -1,1 +1,2 @@
 # password-generator
+<p>A secure, customizable password generator built with python. This tool allows users to generate strong, random passwords with various options to suit different security requirements.<p>
